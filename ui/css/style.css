@@ -441,10 +441,17 @@ input[type=submit], button {
     display: block;
     height: 60px;
     padding: 0 10px;
-    line-height: 60px; }
+    line-height: 60px;
+    font-size: 18px;
+    color: #fff; }
+    #header nav ul li a:hover {
+      color: #ff006c; }
 
 #main {
   padding: 40px 0; }
+  @media screen and (max-width: 768px) {
+    #main {
+      padding: 20px 0; } }
 
 .profile-image {
   position: relative;
