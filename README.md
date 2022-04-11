@@ -5,7 +5,7 @@ Hi there, I'm Software Engineer graduating with a Master of Science in Computer 
 
 - Title: Software Engineer
 - Location: San Jose, CA, USA
-- Email: jakezhong1990@mail.com
+- Email: jakezhong1990@gmail.com
 
 ## Skills
 ### Engineering
